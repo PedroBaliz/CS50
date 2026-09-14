@@ -1,0 +1,4 @@
+I liked learning SQL because I think it will be very important for my professional career.
+The professional world uses databases very frequently, so learning how to query and organize information is a very useful skill.
+During this problem, I learned more about SELECT statements, filtering data with WHERE, and ordering results correctly.
+At first, some queries were difficult, but after practicing I started to better understand how SQL works and how powerful databases can be.

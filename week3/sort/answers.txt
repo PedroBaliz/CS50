@@ -1,0 +1,8 @@
+sort1 uses: Bubble
+How do you know?: On sorted input it is extremely fast but much slower on random or reversed input, which matches Bubble Sort behavior.
+
+sort2 uses: Merge
+How do you know?: It is consistently the fastest on large inputs and performs similarly regardless of input order, matching O(n log n).
+
+sort3 uses: Selection
+How do you know?: It performs similarly on all inputs and does not improve on sorted data, indicating O(n^2) behavior.
